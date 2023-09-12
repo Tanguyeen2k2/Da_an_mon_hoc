@@ -1,0 +1,11 @@
+link tải pfsense: https://www.pfsense.org/
+link tải Windows Server 2012: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2012-r2
+link tải Windows 7: https://taimienphi.vn/download-windows-7-8538
+các link tham khảo:
+https://blogchiasekienthuc.com/dan-cong-nghe/firewall-la-gi-tim-hieu-ky-hon-ve-firewall.html#ii-co-may-loai-firewall
+
+https://netsystem.vn/tim-hieu-ve-firewall-su-khac-nhau-giua-firewall-cung-va-mem-la-gi
+
+https://viblo.asia/p/network-gioi-thieu-ve-pfsense-N0bDM6LXv2X4
+
+https://docs.netgate.com/pfsense/en/latest/
